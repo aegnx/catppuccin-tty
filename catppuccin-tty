@@ -13,7 +13,7 @@ echo -en \\e]P85B6078 # light black
 echo -en \\e]P9ED8796 # red 
 echo -en \\e]PAA6DA95 # green 
 echo -en \\e]PBEED49F # yellow 
-echo -en \\e]PCC6A0F6 # purple 
-echo -en \\e]PD8BD5CA # teal 
-echo -en \\e]PECAD3F5 # white 
+echo -en \\e]PC8AADF4 # blue 
+echo -en \\e]PDC6A0F6 # purple 
+echo -en \\e]PE91D7E3 # light blue
 clear
