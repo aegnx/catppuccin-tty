@@ -1,0 +1,19 @@
+# catppuccin-macchiato-console
+# vconsole colors set printing \\e]PXRRGGBB
+# where X is terminal color, RRGGBB is a hexcolor
+echo -en \\e]P024273A # base 
+echo -en \\e]P1ED8796 # red 
+echo -en \\e]P2A6DA95 # green 
+echo -en \\e]P3EED49F # yellow 
+echo -en \\e]P48AADF4 # blue 
+echo -en \\e]P5C6A0F6 # purple 
+echo -en \\e]P691D7E3 # light blue 
+echo -en \\e]P7CAD3F5 # white 
+echo -en \\e]P85B6078 # light black 
+echo -en \\e]P9ED8796 # red 
+echo -en \\e]PAA6DA95 # green 
+echo -en \\e]PBEED49F # yellow 
+echo -en \\e]PCC6A0F6 # purple 
+echo -en \\e]PD8BD5CA # teal 
+echo -en \\e]PECAD3F5 # white 
+clear

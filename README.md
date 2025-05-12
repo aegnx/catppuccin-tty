@@ -1,5 +1,7 @@
-# nord-tty
-A theme for the Linux vconsole.  Because why not?
+# catppuccin-tty
+A theme for the Linux vconsole.  Because yes.
+
+This is a fork of [gh:lewisacidic/nord-tty](https://github.com/lewisacidic/nord-tty)
 
 
 ## Usage
@@ -7,10 +9,10 @@ A theme for the Linux vconsole.  Because why not?
 When in a boring, normal Linux vconsole (e.g. by pressing `Ctrl`+`Alt`+`2`), source the file:
 
 ```sh
-source nord-tty
+source catppuccin-[latte, frappe, macchiato, mocha]-tty
 ```
 
-Cool hint: you can put this in your `.{bash,zsh}rc`
+Cool hint: you can put this in your `.{bash,zsh}rc`, if you put multiple of them only the last one will work fyi.
 
 
 ## How does it work?
@@ -21,6 +23,7 @@ These can be printed using `echo` with the `-en` flags.
 
 
 ## Add to login screen
+wip
 
 If you just can't wait until you log in for the nord-ttyness, you can add the commands to the start of `/etc/issue` to run before the login prompt:
 
