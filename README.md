@@ -6,10 +6,10 @@ This is a fork of [gh:lewisacidic/nord-tty](https://github.com/lewisacidic/nord-
 
 ## Usage
 
-When in a boring, normal Linux vconsole (e.g. by pressing `Ctrl`+`Alt`+`2`), source the file:
+When in a boring, normal Linux vconsole (e.g. by pressing `Ctrl`+`Alt`+`4`), source the file:
 
 ```sh
-source catppuccin-[latte, frappe, macchiato, mocha]-tty
+source catppuccin-[frappe, macchiato, mocha]-tty
 ```
 
 Cool hint: you can put this in your `.{bash,zsh}rc`, if you put multiple of them only the last one will work fyi.
